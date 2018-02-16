@@ -1,4 +1,5 @@
 function future () {
-  console.log('My Horoscope is The Arrow');
+  const horoscope = 'The Arrow';
+  console.log('My Horoscope is',horoscope);
 }
 future();
