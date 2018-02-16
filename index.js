@@ -4,4 +4,4 @@ function greet(salute) {
     console.log(salute);
 }
 
-greet('Team A: Fruzsi & Bandi');
+greet('greetings !!:):):):):)');
