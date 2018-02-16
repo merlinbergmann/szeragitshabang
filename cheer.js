@@ -1,5 +1,5 @@
 'use strict';
 
-function cheer() {
-  console.log('Szera');
+function cheer(team) {
+  console.log(team);
 }
