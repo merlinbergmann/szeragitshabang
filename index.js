@@ -1,5 +1,7 @@
 'use strict';
 
-function greet() {
-    console.log('Team A: Fruzsi & Bandi');
+function greet(salute) {
+    console.log(salute);
 }
+
+greet('Team A: Fruzsi & Bandi');
